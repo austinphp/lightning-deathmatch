@@ -11,3 +11,15 @@
 - ??? See Rule #1
 
 
+###Topic Picker
+
+* Clone repo and have php available on command line
+* In the repo folder run the topicPicker.php script and pass in a parameter easy or hard. (php topicPicker.php easy)
+
+
+### Adding Topics
+
+* Add topics to the csv files since that is easier. Follow the same format. 
+* Run the CSV to JSON script to generate new json files
+* Submit a pull request with your modified files
+
