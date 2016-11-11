@@ -23,5 +23,5 @@ function getTopic($filename){
 	$maxSize = count($json);
 	$position = rand(0, $maxSize);
 	// var_dump(trim($json[$position]));
-	return "Your Question is: \n" . $json[$position];
+	return "Your Question is: \n" . $json[$position] . "\n";
 }
